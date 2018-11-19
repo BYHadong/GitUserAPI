@@ -10,7 +10,6 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      // sidoName: "서울",
       login: [],
     }
   }
